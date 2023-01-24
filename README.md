@@ -2,7 +2,7 @@
 </h1>
 
 #### 📬 Find me at
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvador-valverde/)](https://www.linkedin.com/in/salvador-valverde/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-v-minga/)]([https://www.linkedin.com/in/salvador-valverde/](https://www.linkedin.com/in/alex-v-minga/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexminga.a@gmail.com)](mailto:alexminga.a@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40AlexMinga39)](https://twitter.com/AlexMinga39)
 
