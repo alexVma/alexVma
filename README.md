@@ -14,7 +14,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=flat&e&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexVma&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
