@@ -18,4 +18,4 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexVma&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexVma&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexVma&count_private=false)](https://github.com/anuraghazra/github-readme-stats) -->
